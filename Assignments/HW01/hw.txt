@@ -1,0 +1,9 @@
+Part A
+   1, 2, 4, 5
+Part B
+   sublime, gedit, emacs, Microsoft Visual Studio
+Part C 
+   2
+Part D
+   3
+
